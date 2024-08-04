@@ -9,7 +9,7 @@ import {
   AlertDialogTitle,
   AlertDialogTrigger
 } from "@/components/ui/alert-dialog";
-import { BUTTON_SIZES, BUTTON_TYPES, Button } from "@/components/ui/button";
+import { BUTTON_SIZES, BUTTON_TYPES, Button } from "@/components/ui/kfbutton";
 
 export function AlertDialogComponent() {
   return (

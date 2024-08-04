@@ -1,4 +1,4 @@
-import { BUTTON_SIZES, BUTTON_TYPES, Button } from "@/components/ui/button";
+import { BUTTON_SIZES, BUTTON_TYPES, Button } from "@/components/ui/kfbutton.jsx";
 
 export function ButtonComponent() {
   return (

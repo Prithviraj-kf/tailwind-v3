@@ -6,7 +6,7 @@ import {
   BUTTON_SIZES,
   BUTTON_TYPES,
   buttonVariants
-} from "@/components/ui/button";
+} from "@/components/ui/kfbutton";
 
 // const AlertDialog = React.forwardRef(({ className, ...props }, ref) => (
 //   <AlertDialogPrimitive.Root
